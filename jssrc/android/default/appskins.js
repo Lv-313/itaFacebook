@@ -1,11 +1,22 @@
 function skinsInit() {
+    CopydefLabel0d991c2476cff43 = "CopydefLabel0d991c2476cff43";
+    CopydefLabel0e965cd1151dc4e = "CopydefLabel0e965cd1151dc4e";
+    CopydefLabel0gbee1218db7649 = "CopydefLabel0gbee1218db7649";
+    CopyslFbox0b37fd701978b42 = "CopyslFbox0b37fd701978b42";
+    CopyslFbox0d4229a8cbf2849 = "CopyslFbox0d4229a8cbf2849";
+    CopyslFbox0d76961c4d0db48 = "CopyslFbox0d76961c4d0db48";
+    CopyslFbox0e1d3ae69289545 = "CopyslFbox0e1d3ae69289545";
+    CopyslFbox0e222d4aac9104c = "CopyslFbox0e222d4aac9104c";
     defBtnFocus = "defBtnFocus";
     defBtnNormal = "defBtnNormal";
+    defLabel = "defLabel";
     defTextBoxFocus = "defTextBoxFocus";
     defTextBoxNormal = "defTextBoxNormal";
     defTextBoxPlaceholder = "defTextBoxPlaceholder";
     slDynamicNotificationForm = "slDynamicNotificationForm";
+    slFbox = "slFbox";
     slForm = "slForm";
+    slImage = "slImage";
     slPopup = "slPopup";
     slStaticNotificationForm = "slStaticNotificationForm";
     slTitleBar = "slTitleBar";

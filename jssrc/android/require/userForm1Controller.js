@@ -10,6 +10,10 @@ define({
             alert('Fuck');
         });
     },
+    loginSuccess: function(response) {
+        var navObj = new kony.mvc.Navigation("profileScreen");
+        navObj.navigate();
+    },
     logout: function() {
         let ids = kony.sdk.getCurrentInstance().getIdentityService('ITAKonyAuth');
         ids.logout(function() {

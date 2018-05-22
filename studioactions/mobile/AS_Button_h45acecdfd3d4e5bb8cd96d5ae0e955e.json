@@ -16,9 +16,11 @@
         "actions": [{
             "id": "INVOKE_FUNCTION___ba6dc4a316cb424286efbc785348bf07",
             "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "login",
-            "display": "login",
-            "inputparams": [],
+            "sequenceKUID": "loginSuccess",
+            "display": "loginSuccess",
+            "inputparams": [{
+                "name": "response"
+            }],
             "parentId": null,
             "callbackType": null,
             "disabled": null,
