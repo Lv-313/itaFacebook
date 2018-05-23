@@ -30,10 +30,10 @@
     "mwhttpsportkey": "",
     "defaulttheme": "defaultTheme",
     "nativeContainerProperties": {
-        "isEnableJSContainerAndroid": true,
         "isModified": true,
-        "isEnableJSContaineriOS": true,
-        "isEnableJSContainer": true
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
     },
     "appmenu": {
         "tablet": {
