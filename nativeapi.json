@@ -15,7 +15,17 @@
                     "platform": "iOS",
                     "os": "11.0",
                     "url": "/Applications/KonyVisualizerEnterprise8/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/520/1/.cp/resources/sdk/nativeBindings/Kony_SyncV2-iOS-11.0.zip",
-                    "filepath": "/Users/ted/Desktop/ITA/itaFacebook/nativebindings/iOS/11.0/Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "C:\\Users\\Ivan\\KonyVizEWS\\itaFacebook\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                }
+            },
+            "10.0": {
+                "Kony_SyncV2-iOS-10.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "10.0",
+                    "url": "C:\\Users\\Ivan\\KonyVizEWS\\.nativebindings\\iOS\\10.0\\Kony_SyncV2-iOS-10.0.zip",
+                    "filepath": "C:\\Users\\Ivan\\KonyVizEWS\\itaFacebook\\nativebindings\\iOS\\10.0\\Kony_SyncV2-iOS-10.0.zip",
                     "enable": true
                 }
             }
@@ -35,7 +45,7 @@
                     "platform": "Android",
                     "os": "4.0",
                     "url": "/Applications/KonyVisualizerEnterprise8/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/520/1/.cp/resources/sdk/nativeBindings/Kony_SyncV2-Android-4.0.zip",
-                    "filepath": "/Users/ted/Desktop/ITA/itaFacebook/nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "C:\\Users\\Ivan\\KonyVizEWS\\itaFacebook\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
                     "enable": true
                 }
             }

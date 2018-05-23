@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "23%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb54a50a1c7b460cbdb245c770e0bc47",
+    "_text_": "Delete",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s7e2018b83514dad89dfdc29b916fa7b"
+    },
+    "displaytext": true,
+    "id": "BtnDeleteFriendNorm",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "je0e8594b5b24951807e9e7c6d6c455b",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainerFriend",
+    "pf": "FriendsScreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

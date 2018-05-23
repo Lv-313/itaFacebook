@@ -38,6 +38,7 @@ var appConfig = {
             "type": "oauth2",
             "prov": "ITAKonyAuth",
             "url": "https://100007931.auth.konycloud.com"
+<<<<<<< HEAD
         }, {
             "alias": "DeliveryBinGoogle",
             "type": "oauth2",
@@ -48,6 +49,10 @@ var appConfig = {
         "Webapp": {
             "url": "https://app-factory-dev.konycloud.com/appMy"
         }
+=======
+        }],
+        "services_meta": {}
+>>>>>>> feature/FriendsScreen
     },
     runtimeAppVersion: "1.0",
     eventTypes: ["FormEntry", "Error", "Crash"],
@@ -80,7 +85,11 @@ function themeCallBack() {
         init: applicationController.appInit,
         appservice: applicationController.AS_AppEvents_c9cbdd8252d846ef896d10cd92f4c577,
         showstartupform: function() {
+<<<<<<< HEAD
             var startForm = new kony.mvc.Navigation("frmLogin");
+=======
+            var startForm = new kony.mvc.Navigation("LoginScreen");
+>>>>>>> feature/FriendsScreen
             startForm.navigate();
         }
     });
@@ -111,9 +120,17 @@ function loadResources() {
 function onSuccessSDKCallBack() {
     kony.theme.setCurrentTheme("default", themeCallBack, themeCallBack);
 }
+
+function onSuccess(oldlocalname, newlocalename, info) {
+    loadResources();
+};
+
+function onFailure(errorcode, errormsg, info) {
+    loadResources();
+};
 kony.application.setApplicationMode(constants.APPLICATION_MODE_NATIVE);
 //If default locale is specified. This is set even before any other app life cycle event is called.
-loadResources();
+kony.i18n.setDefaultLocaleAsync("en_US", onSuccess, onFailure, null);
 // If you wish to debug Application Initialization events, now is the time to
 // place breakpoints.
 debugger;
