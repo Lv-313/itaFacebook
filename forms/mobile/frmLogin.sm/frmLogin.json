@@ -31,7 +31,8 @@
     "canUpdateUI": true,
     "children": [
         "bodyContainer",
-        "browser"
+        "browser",
+        "Button0hcc7463281a043"
     ],
     "containerweight": 100,
     "controllerInfo": {
