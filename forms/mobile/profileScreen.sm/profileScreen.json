@@ -30,15 +30,13 @@
     },
     "canUpdateUI": true,
     "children": [
-        "TextFieldInputLogin",
-        "TextFieldInputPassword",
-        "BtnLogin"
+        "profileFlx"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "Form1Controller"
+            "name": "profileScreenController"
         }
     },
     "currentLocale": "default",
@@ -48,7 +46,7 @@
     "device": "iPhoneX",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "id": "profileScreen",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -66,7 +64,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "f510a813be1245c2b619a52feb57dc93",
+                "kuid": "c13158a0ff234dbbb20425ece81c3385",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -77,7 +75,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "a8107f5af2984ff5ba8ca49ab7dd73ea",
+                        "kuid": "c3e5a76e99374b158af9a2da466cc8a4",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -94,14 +92,14 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "ge5a9ff699694ab78936dcbb74a65bde",
+    "kuid": "gccdb0dcc4bc4557aea2041e8d9b68d3",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "iphone",
-    "prevDevice": "iPhoneX",
-    "prevPlatform": "iphone",
+    "prevDevice": "GalaxyS8",
+    "prevPlatform": "android",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

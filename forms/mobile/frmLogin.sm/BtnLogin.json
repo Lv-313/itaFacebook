@@ -7,8 +7,8 @@
         "value": "50dp"
     },
     "_left_": {
-        "type": "string",
-        "value": "68dp"
+        "type": "number",
+        "value": "0"
     },
     "_margin_": [
         6,
@@ -26,26 +26,30 @@
     "_text_": "Login",
     "_top_": {
         "type": "string",
-        "value": "255dp"
+        "value": "25%"
     },
     "_width_": {
         "type": "string",
         "value": "260dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s035cbbfe6244920985c2ec6b1381c73",
     "id": "BtnLogin",
-    "ide_onClick": "AS_Button_h45acecdfd3d4e5bb8cd96d5ae0e955e",
+    "ide_onClick": "AS_Button_g9f6ddd2e9e547be8813342cb33fea6e",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "fc5e033cd5544f29a16702f56d86c000",
     "name": "kony.ui.Button",
-    "parent": "Form1",
-    "pf": "Form1",
+    "parent": "bodyContainer",
+    "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "wType": "Button",
