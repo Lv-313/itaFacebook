@@ -30,9 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "TextFieldInputLogin",
-        "TextFieldInputPassword",
-        "BtnLogin"
+        "bodyContainer",
+        "browser"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -48,7 +47,7 @@
     "device": "iPhoneX",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "id": "frmLogin",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

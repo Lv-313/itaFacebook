@@ -1,25 +1,18 @@
 {
-    "AS_Button_h45acecdfd3d4e5bb8cd96d5ae0e955e": {
-        "id": "AS_Button_h45acecdfd3d4e5bb8cd96d5ae0e955e",
+    "AS_Button_g9f6ddd2e9e547be8813342cb33fea6e": {
+        "id": "AS_Button_g9f6ddd2e9e547be8813342cb33fea6e",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
         }],
-        "contextObj": {
-            "name": "frmLogin",
-            "type": "forms",
-            "platform": "",
-            "KUID": "ge5a9ff699694ab78936dcbb74a65bde"
-        },
         "language": "js",
         "actions": [{
-            "id": "INVOKE_FUNCTION___ba6dc4a316cb424286efbc785348bf07",
+            "id": "INVOKE_FUNCTION__ide_onClick_a02d4555b22d4355b43246d4b6639181",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "login",
             "display": "login",
             "inputparams": [],
-            "parentId": null,
             "callbackType": null,
             "disabled": null,
             "source": "controller"

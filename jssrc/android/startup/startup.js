@@ -17,8 +17,12 @@ var appConfig = {
     serviceUrl: "https://100007931.auth.konycloud.com/appconfig",
     svcDoc: {
         "selflink": "https://100007931.auth.konycloud.com/appconfig",
-        "identity_meta": {},
-        "service_doc_etag": "000001638274B648",
+        "identity_meta": {
+            "DeliveryBinGoogle": {
+                "success_url": "allow_any"
+            }
+        },
+        "service_doc_etag": "000001638D55CEA8",
         "appId": "af90b791-fe56-4321-b675-86657a5f2cc7",
         "identity_features": {
             "reporting_params_header_allowed": true
@@ -34,8 +38,16 @@ var appConfig = {
             "type": "oauth2",
             "prov": "ITAKonyAuth",
             "url": "https://100007931.auth.konycloud.com"
+        }, {
+            "alias": "DeliveryBinGoogle",
+            "type": "oauth2",
+            "prov": "DeliveryBinGoogle",
+            "url": "https://100007931.auth.konycloud.com"
         }],
-        "services_meta": {}
+        "services_meta": {},
+        "Webapp": {
+            "url": "https://app-factory-dev.konycloud.com/appMy"
+        }
     },
     runtimeAppVersion: "1.0",
     eventTypes: ["FormEntry", "Error", "Crash"],
@@ -66,8 +78,9 @@ function themeCallBack() {
     callAppMenu();
     kony.application.setApplicationInitializationEvents({
         init: applicationController.appInit,
+        appservice: applicationController.AS_AppEvents_c9cbdd8252d846ef896d10cd92f4c577,
         showstartupform: function() {
-            var startForm = new kony.mvc.Navigation("Form1");
+            var startForm = new kony.mvc.Navigation("frmLogin");
             startForm.navigate();
         }
     });

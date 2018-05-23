@@ -30,10 +30,10 @@
     "mwhttpsportkey": "",
     "defaulttheme": "defaultTheme",
     "nativeContainerProperties": {
-        "isModified": true,
-        "isEnableJSContainer": true,
         "isEnableJSContainerAndroid": true,
-        "isEnableJSContaineriOS": true
+        "isModified": true,
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
     },
     "appmenu": {
         "tablet": {
@@ -237,6 +237,11 @@
             "id": "866a53c4-5fcc-438b-96f5-fec6e911833a",
             "baseId": "866a53c4-5fcc-438b-96f5-fec6e911833a",
             "version": "1.0"
+        }
+    },
+    "ide_appEvents": {
+        "mobile": {
+            "appservice": "AS_AppEvents_c9cbdd8252d846ef896d10cd92f4c577"
         }
     }
 }

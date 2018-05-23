@@ -1,9 +1,8 @@
 {
     "DNDConfig": null,
-    "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "62%"
+        "value": "9%"
     },
     "_left_": {
         "type": "string",
@@ -23,47 +22,45 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sa4ed67e1b53487da4069828ed037c48",
+    "_skin_": "s16e68d51bd94ed9b9bde4d059e2102c",
     "_top_": {
         "type": "string",
-        "value": "38%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
-    "allowhorizontalbounce": false,
-    "allowverticalbounce": true,
-    "bounces": true,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "segUserInfo"
+        "lblContactInfo"
     ],
     "clipbounds": true,
+    "containerId": true,
     "containerweight": 100,
-    "decelerat": false,
-    "dragg": false,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flxContactInfoController"
+        }
+    },
     "enablescrolling": true,
-    "horizontalscrollindicator": true,
-    "id": "flxUserInfo",
+    "id": "flxContactInfo",
     "info": null,
+    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e89c0770969f400499b29723ddd68efb",
+    "kuid": "d48ad0dc91594eefa08214e225c67ef1",
     "layouttype": 2,
-    "name": "kony.ui.FlexScrollContainer",
-    "pagingenabled": false,
-    "parent": "profileFlx",
-    "pf": "profileScreen",
+    "name": "kony.ui.FlexContainer",
+    "parent": "segContactInfo",
+    "pf": "segContactInfo",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "track": false,
-    "verticalscrollindicator": true,
-    "wType": "FlexScrollContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "wType": "FlexContainer",
+    "widgetalignment": 1
 }
