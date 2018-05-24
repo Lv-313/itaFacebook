@@ -24,14 +24,14 @@
         0
     ],
     "_skin_": "sb50f8cd2c70473087f98c01815c7201",
-    "_src_": "imagedrag.png",
+    "_src_": "chatuser2.png",
     "_top_": {
         "type": "string",
         "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "129.17%"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centery": {
@@ -49,6 +49,7 @@
     "id": "Logo4",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "f7f45aae644e458b8e4005a953f82093",
