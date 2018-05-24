@@ -13,13 +13,13 @@ define({
         });
         kony.mvc.registry.add("flxContactInfo", "flxContactInfo", "flxContactInfoController");
         kony.mvc.registry.add("flxInfo", "flxInfo", "flxInfoController");
-        kony.mvc.registry.add("frmHome", "frmHome", "frmHomeController");
-        kony.mvc.registry.add("frmLogin", "frmLogin", "Form1Controller");
+        kony.mvc.registry.add("Form1", "Form1", "Form1Controller");
+        kony.mvc.registry.add("homeScreen", "homeScreen", "homeScreenController");
         kony.mvc.registry.add("profileScreen", "profileScreen", "profileScreenController");
         setAppBehaviors();
     },
     postAppInitCallBack: function(eventObj) {},
     appmenuseq: function() {
-        new kony.mvc.Navigation("frmHome").navigate();
+        new kony.mvc.Navigation("homeScreen").navigate();
     }
 });

@@ -7,7 +7,7 @@
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "frmLogin",
+            "name": "Form1",
             "type": "forms",
             "platform": "",
             "KUID": "ge5a9ff699694ab78936dcbb74a65bde"
