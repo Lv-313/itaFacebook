@@ -46,5 +46,11 @@ function(response) {
 },
   setBrowserVisibility: function(visible) {
     this.view.browser.setVisibility(visible);
-  }
+  },
+  
+	toHome: function(response){
+   var toHome = new kony.mvc.Navigation("homeScreen");
+   toHome.navigate();
+},
+       
 });

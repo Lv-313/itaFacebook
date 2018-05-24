@@ -1,0 +1,30 @@
+{
+    "AS_Button_jee632f1fb6c4bf5a28bb8b1da8aaae9": {
+        "id": "AS_Button_jee632f1fb6c4bf5a28bb8b1da8aaae9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "homeScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jdb948510b3f4f178a30bb8de9d42f7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___edb9012b76a040d2b8ce658149cac9c2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "toProfile",
+            "display": "toProfile",
+            "inputparams": [{
+                "name": "response"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

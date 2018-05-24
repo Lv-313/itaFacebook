@@ -10,11 +10,14 @@
         "actions": [{
             "id": "INVOKE_FUNCTION__ide_onClick_a02d4555b22d4355b43246d4b6639181",
             "type": "INVOKE_FUNCTION",
-            "display": "<>",
-            "inputparams": [],
+            "sequenceKUID": "toHome",
+            "display": "toHome",
+            "inputparams": [{
+                "name": "response"
+            }],
             "callbackType": null,
             "disabled": null,
-            "source": "module"
+            "source": "controller"
         }]
     }
 }

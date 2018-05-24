@@ -20,6 +20,6 @@ define({
     },
     postAppInitCallBack: function(eventObj) {},
     appmenuseq: function() {
-        new kony.mvc.Navigation("homeScreen").navigate();
+        new kony.mvc.Navigation("Form1").navigate();
     }
 });

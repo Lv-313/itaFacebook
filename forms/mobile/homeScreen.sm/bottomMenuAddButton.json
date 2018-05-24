@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "260dp"
+        "value": "158dp"
     },
     "_margin_": [
         6,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s47939352ef04500be90acfacf53a1b3",
+    "_skin_": "s55ed8962c004b5994d1c3bd6a9a361d",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "19dp"
+        "value": "20dp"
     },
     "_width_": {
         "type": "string",
@@ -37,11 +37,11 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s035cbbfe6244920985c2ec6b1381c73",
-    "id": "CopyButton0a0b14aa631ae47",
+    "id": "bottomMenuAddButton",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c1d68694f7c64472a4e9fd0b65029973",
+    "kuid": "de39ed164e024d23a66c20f6e4964a7b",
     "name": "kony.ui.Button",
     "parent": "bottomMenu",
     "pf": "homeScreen",

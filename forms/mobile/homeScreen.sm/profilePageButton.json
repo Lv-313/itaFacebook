@@ -42,6 +42,7 @@
     "displaytext": true,
     "focusskin": "s035cbbfe6244920985c2ec6b1381c73",
     "id": "profilePageButton",
+    "ide_onClick": "AS_Button_jee632f1fb6c4bf5a28bb8b1da8aaae9",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

@@ -80,7 +80,7 @@ function themeCallBack() {
         init: applicationController.appInit,
         appservice: applicationController.AS_AppEvents_c9cbdd8252d846ef896d10cd92f4c577,
         showstartupform: function() {
-            var startForm = new kony.mvc.Navigation("homeScreen");
+            var startForm = new kony.mvc.Navigation("Form1");
             startForm.navigate();
         }
     });

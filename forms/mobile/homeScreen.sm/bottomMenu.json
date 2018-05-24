@@ -37,8 +37,8 @@
     "canUpdateUI": true,
     "children": [
         "bottomMenuFriendsButton",
-        "CopyButton0d5c1faadd81b48",
-        "CopyButton0a0b14aa631ae47"
+        "bottomMenuAddButton",
+        "bottomMenuHomeButton"
     ],
     "clipbounds": true,
     "containerweight": 100,
