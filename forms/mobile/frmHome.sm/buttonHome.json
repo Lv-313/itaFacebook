@@ -2,13 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
+    "_bottom_": {
         "type": "string",
-        "value": "50dp"
+        "value": "5dp"
     },
     "_left_": {
         "type": "string",
-        "value": "58dp"
+        "value": "5dp"
     },
     "_margin_": [
         6,
@@ -22,31 +22,28 @@
         0,
         0
     ],
-    "_skin_": "s4e3c030f58944728a05c2f9364c82f6",
-    "_text_": "Logout",
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "sdec9d86a2db4e3fbbe9fdf2089600ca",
+    "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "529dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "260dp"
+        "value": "5dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s035cbbfe6244920985c2ec6b1381c73",
-    "id": "Button0hcc7463281a043",
+    "focusskin": "s7a79ad8926d4a6fab933e802d751939",
+    "id": "buttonHome",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e7fa9be3f6d64ce2921e520d92e7f4e6",
+    "kuid": "eb22b8ded0ec4017a33e8a71d5bdf3db",
     "name": "kony.ui.Button",
-    "parent": "frmLogin",
-    "pf": "frmLogin",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
+    "parent": "homeButton",
+    "pf": "frmHome",
     "wType": "Button",
     "zindex": 1
 }

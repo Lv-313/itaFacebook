@@ -23,7 +23,7 @@
         0
     ],
     "_placeholder_": "Login",
-    "_skin_": "s4d9150ae27142298853d076918cb442",
+    "_skin_": "sba3f186cc794261b2e4c1fbb191f999",
     "_text_": "",
     "_top_": {
         "type": "string",
@@ -40,7 +40,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.02%"
     },
     "containerheight": "",
     "containerheightmode": 1,

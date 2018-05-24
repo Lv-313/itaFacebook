@@ -23,10 +23,10 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s95c8a84bc154909ac2be2514e60c25d",
+    "_skin_": "sb82150748a54ab5bb2497fa76610e9c",
     "_top_": {
         "type": "number",
-        "value": "51"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
@@ -36,9 +36,12 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
+        "AppName",
         "TextFieldInputLogin",
         "TextFieldInputPassword",
-        "BtnLogin"
+        "BtnLogin",
+        "signInLabel",
+        "signInFacebook"
     ],
     "clipbounds": true,
     "containerweight": 100,

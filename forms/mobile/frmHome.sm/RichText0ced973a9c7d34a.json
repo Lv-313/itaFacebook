@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "36dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6ec3652715f4bde8fd4a5be7141b47a",
+    "_text_": "RichText",
+    "_top_": {
+        "type": "string",
+        "value": "298dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80.56%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0ced973a9c7d34a",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aaf05f4f4bcd4eedaa2572be04aa4fce",
+    "linkskin": "s6ba689519c149aa82c8e9f04e6ba9b9",
+    "name": "kony.ui.RichText",
+    "parent": "newsList",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

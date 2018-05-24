@@ -9,7 +9,7 @@
     "currentgaversion": "8.2.1",
     "appversionkey": "1.0.0",
     "project.type": "js",
-    "startupformkey": "ge5a9ff699694ab78936dcbb74a65bde",
+    "startupformkey": "ie6da3c692f54a72a6b1ae2557e3b61e",
     "enableCustomData": false,
     "vendornamekey": "KonyLabs",
     "createdgaversion": "8.2.1",
@@ -243,5 +243,6 @@
         "mobile": {
             "appservice": "AS_AppEvents_c9cbdd8252d846ef896d10cd92f4c577"
         }
-    }
+    },
+    "defaultlocalekey": "en_US"
 }

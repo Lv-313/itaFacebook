@@ -5,6 +5,11 @@ define({
     /** onClick defined for BtnLogin **/
     AS_Button_g9f6ddd2e9e547be8813342cb33fea6e: function AS_Button_g9f6ddd2e9e547be8813342cb33fea6e(eventobject) {
         var self = this;
+        return
+    },
+    /** onClick defined for ButtonRoundFloat **/
+    AS_Button_a0b20e0fae404c25a6335931ff6a1d42: function AS_Button_a0b20e0fae404c25a6335931ff6a1d42(eventobject) {
+        var self = this;
         return self.login.call(this);
     }
 });
