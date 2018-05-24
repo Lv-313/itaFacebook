@@ -1,0 +1,18 @@
+{
+    "AS_Segment_bbeb7d19ac7c4b8ebd5f54ff021e1164": {
+        "id": "AS_Segment_bbeb7d19ac7c4b8ebd5f54ff021e1164",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "FriendsScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1ee9cb3cd4b44e6b6bc845810d4f771"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

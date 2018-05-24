@@ -30,7 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexScrollContainerFriends",
+        "segListFriends",
         "footerSection"
     ],
     "containerweight": 100,
