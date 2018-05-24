@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "14%"
+        "value": "70dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "5%"
     },
     "_margin_": [
         0,
@@ -23,65 +23,42 @@
         0
     ],
     "_percent_": true,
-    "_render_": true,
-    "_skin_": "sbeb35be06364d81b1a567943c3804e2",
+    "_skin_": "sad86635205c4173b9c0a8d3819ccebd",
     "_top_": {
         "type": "string",
-        "value": "4.34%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "70dp"
     },
-    "activeNativeBorderCornerRadiusControl": "centerControl",
     "allboxes": [],
-    "android": {
-        "render": true
-    },
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "FlxContImage",
-        "BtnFriendFullName",
-        "BtnDeleteFriendNorm"
+        "Logo6"
     ],
     "clipbounds": true,
     "containerweight": 100,
-    "disabledSkins": {},
     "enablescrolling": true,
-    "focusskin": "se128e45cabc4368b665712f01c658d1",
-    "id": "FlexContainerFriend",
+    "id": "FlxContImage6",
     "info": null,
-    "iphone": {
-        "render": false
-    },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f747bcb33ad74de7a8e5e6a8858075fd",
+    "kuid": "ae2c2400a5fa4386aca8bf13a3d27ef4",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "FlexScrollContainerFriends",
+    "parent": "FlexContainerFriend6",
     "pf": "FriendsScreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "spaan": {
-        "render": false
-    },
-    "spabb": {
-        "render": false
-    },
-    "spaip": {
-        "render": false
-    },
-    "spawinphone8": {
-        "render": false
-    },
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "winphone8": {
-        "render": false
-    },
     "zindex": 1
 }

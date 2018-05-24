@@ -44,6 +44,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "bodyContainer",
+    "ide_onClick": "AS_FlexContainer_b43b867e295741d2bb88b76add8aded7",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

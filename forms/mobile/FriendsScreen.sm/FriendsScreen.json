@@ -30,10 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexContainerFriend",
-        "FlexContainerFriend2",
-        "FlexContainerFriends3",
-        "FlexContainerFriend4",
+        "FlexScrollContainerFriends",
         "FlexContainerFooter"
     ],
     "containerweight": 100,

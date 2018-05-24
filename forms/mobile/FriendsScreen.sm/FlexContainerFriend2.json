@@ -27,7 +27,7 @@
     "_skin_": "sbeb35be06364d81b1a567943c3804e2",
     "_top_": {
         "type": "string",
-        "value": "23.85%"
+        "value": "23.83%"
     },
     "_width_": {
         "type": "string",
@@ -60,7 +60,7 @@
     "kuid": "gbbc9df57f6d49819b4b0ff43248bf9c",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "FriendsScreen",
+    "parent": "FlexScrollContainerFriends",
     "pf": "FriendsScreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

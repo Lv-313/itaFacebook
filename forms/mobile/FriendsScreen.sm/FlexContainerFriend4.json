@@ -60,7 +60,7 @@
     "kuid": "c4edaa4927a84ebd86d85f2d65f3364a",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "FriendsScreen",
+    "parent": "FlexScrollContainerFriends",
     "pf": "FriendsScreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

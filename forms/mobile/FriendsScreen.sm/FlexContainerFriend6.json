@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "14%"
+        "value": "15%"
     },
     "_left_": {
         "type": "string",
@@ -27,7 +27,7 @@
     "_skin_": "sbeb35be06364d81b1a567943c3804e2",
     "_top_": {
         "type": "string",
-        "value": "4.34%"
+        "value": "105.96%"
     },
     "_width_": {
         "type": "string",
@@ -41,23 +41,23 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "FlxContImage",
-        "BtnFriendFullName",
-        "BtnDeleteFriendNorm"
+        "FlxContImage6",
+        "BtnFriendFullName6",
+        "BtnDeleteFriend6"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "disabledSkins": {},
     "enablescrolling": true,
     "focusskin": "se128e45cabc4368b665712f01c658d1",
-    "id": "FlexContainerFriend",
+    "id": "FlexContainerFriend6",
     "info": null,
     "iphone": {
         "render": false
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f747bcb33ad74de7a8e5e6a8858075fd",
+    "kuid": "ie13a3ff46e3440fb05800172d8da400",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "FlexScrollContainerFriends",
