@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "150dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "17dp"
     },
     "_margin_": [
         0,
@@ -27,34 +27,29 @@
     "_src_": "nature.jpg",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "137dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "150dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
         "formID": "friendPage",
-        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "headerLogoFrPage",
-    "imagescalemode": 0,
+    "id": "Image0f3cb068e643d4c",
+    "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i32a90fb4d294279b51962f9869020ab",
-    "maxwidth": {
-        "type": "string",
-        "value": "100%"
-    },
+    "kuid": "g9d6d7c32cff4515a91b19413f153811",
     "name": "kony.ui.Image2",
-    "parent": "headerFlxContFrPage",
+    "parent": "flxContGallery",
     "pf": "friendPage",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

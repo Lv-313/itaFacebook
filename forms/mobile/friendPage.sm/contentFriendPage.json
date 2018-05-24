@@ -1,13 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "9.96%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0.08%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -26,7 +26,7 @@
     "_skin_": "s95c8a84bc154909ac2be2514e60c25d",
     "_top_": {
         "type": "string",
-        "value": "40.04%"
+        "value": "0.00%"
     },
     "_width_": {
         "type": "string",
@@ -36,8 +36,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Segment0b7481a39174f40",
-        "segInfoFreind"
+        "flxContGenInfo",
+        "flxContGallery"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -47,7 +47,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "ed19278a8c1f41338dd4f7eb648c1268",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "mainFlxCountFrPage",
     "pf": "friendPage",

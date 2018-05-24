@@ -1,12 +1,13 @@
 {
     "DNDConfig": null,
+    "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
         "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0.00%"
     },
     "_margin_": [
         0,
@@ -22,45 +23,47 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd7d71fe2b8c4330b5fee144214e4c77",
+    "_skin_": "sa4ed67e1b53487da4069828ed037c48",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-0.02%"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
     "canUpdateUI": true,
     "children": [
-        "generalInfo"
+        "segListFriends"
     ],
     "clipbounds": true,
-    "containerId": true,
     "containerweight": 100,
-    "controllerInfo": {
-        "default": {
-            "channel": "mobile",
-            "name": "segGeneralInfoController"
-        }
-    },
+    "decelerat": false,
+    "dragg": false,
     "enablescrolling": true,
-    "id": "segGeneralInfo",
+    "horizontalscrollindicator": true,
+    "id": "flxScrContListFr",
     "info": null,
-    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ff6037a8a98b4c8a90b5f508e51549c1",
-    "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "segGenInfo",
-    "pf": "segGenInfo",
+    "kuid": "g9486779489843ff9df92ba7b5837d22",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "FriendsScreen",
+    "pf": "FriendsScreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
 }

@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "40%"
+        "value": "55%"
     },
     "_left_": {
         "type": "string",
@@ -48,7 +48,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "ea416522d40941a3b9a78776070a702a",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "mainFlxCountFrPage",
     "pf": "friendPage",

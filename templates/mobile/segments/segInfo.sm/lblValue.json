@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "60%"
-    },
     "_margin_": [
         1,
         1,
@@ -22,6 +18,10 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "10%"
+    },
     "_skin_": "s804c14683654b0eb188c76fd5fbb85e",
     "_text_": "050 18 65 210",
     "_top_": {

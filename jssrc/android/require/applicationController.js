@@ -24,8 +24,8 @@ define({
             "name": "ListView.AlertsWithThumbnails"
         });
         kony.mvc.registry.add("flxContactInfo", "flxContactInfo", "flxContactInfoController");
-        kony.mvc.registry.add("segGeneralInfo", "segGeneralInfo", "segGeneralInfoController");
         kony.mvc.registry.add("flxInfo", "flxInfo", "flxInfoController");
+        kony.mvc.registry.add("flxContFrends", "flxContFrends", "flxContFrendsController");
         kony.mvc.registry.add("rowFlxCountseg", "rowFlxCountseg", "rowFlxCountsegController");
         kony.mvc.registry.add("datacontainer", "datacontainer", "datacontainerController");
         kony.mvc.registry.add("CopyflxRow1", "CopyflxRow1", "CopyflxRow1Controller");

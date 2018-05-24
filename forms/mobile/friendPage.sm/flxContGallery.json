@@ -1,17 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_blur_": {
-        "enabled": false,
-        "value": 0
-    },
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "40%"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -40,24 +36,26 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "headerLogoFrPage"
+        "Image0e9a2e943f26f45",
+        "Image0cd21fa9e952d49",
+        "Image0f3cb068e643d4c",
+        "Image0j41b8734be024f"
     ],
     "clipbounds": true,
     "containerweight": 100,
-    "defaultunit": 2,
     "enablescrolling": true,
-    "id": "headerFlxContFrPage",
+    "id": "flxContGallery",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "adb9b9a1028345fcb38eb675a09e3ffe",
-    "layouttype": 4,
+    "kuid": "cce8ef2cda6645af8ddfd7cf920a6ce6",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "headerFlxContPage",
+    "parent": "contentFriendPage",
     "pf": "friendPage",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "snapgridsize": "10",
+    "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,

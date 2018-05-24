@@ -2,10 +2,6 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "0%"
-    },
     "_height_": {
         "type": "ref",
         "value": "preferred"
@@ -24,6 +20,10 @@
     ],
     "_skin_": "s08580cb46f24a0ba154c8dc8ccf0c16",
     "_text_": "Jennifer Lopez",
+    "_top_": {
+        "type": "string",
+        "value": "6.00%"
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -38,7 +38,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.04%"
     },
     "containerweight": 100,
     "contentalignment": 4,

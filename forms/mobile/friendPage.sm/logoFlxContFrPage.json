@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "52%"
     },
     "_left_": {
         "type": "string",
@@ -26,7 +26,7 @@
     "_skin_": "s95c8a84bc154909ac2be2514e60c25d",
     "_top_": {
         "type": "string",
-        "value": "30%"
+        "value": "-27%"
     },
     "_width_": {
         "type": "string",
@@ -50,7 +50,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "c44bb9b4155a463b9aabb8aac89fbb11",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "headerFlxContPage",
     "pf": "friendPage",

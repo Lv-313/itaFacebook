@@ -4,15 +4,48 @@
     "__parentReadjusting__": false,
     "_data_": [
         {
-            "generalInfo": {
+            "id": {
+                "text": ""
+            },
+            "lblItem": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "General Information"
+                "text": "Date of birth"
+            },
+            "lblValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "24 july 1969"
+            }
+        },
+        {
+            "id": {
+                "text": ""
+            },
+            "lblItem": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Gender"
+            },
+            "lblValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "male"
+            }
+        },
+        {
+            "id": {
+                "text": ""
+            },
+            "lblItem": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Phone"
+            },
+            "lblValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+43 1 31339 0"
             }
         }
     ],
     "_height_": {
         "type": "string",
-        "value": "20%"
+        "value": "100%"
     },
     "_indicator_": "none",
     "_left_": {
@@ -34,7 +67,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "5%"
+        "value": "1%"
     },
     "_width_": {
         "type": "string",
@@ -43,12 +76,16 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "00",
+    "counter": "02",
     "focusedindex": null,
     "focuseditem": null,
+    "generatedtemplate": "f4b4c1c504c04ec38b75988eec2b377c",
     "groupcells": false,
     "hasSections": false,
-    "id": "Segment0b7481a39174f40",
+    "hiddencolumns": {
+        "id": "text"
+    },
+    "id": "segGenInfo",
     "info": null,
     "ipad": {
         "psp": {
@@ -62,7 +99,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "dd250e12175747838d1a8806c9d99ee3",
+    "kuid": "i5b2f86a900d42f4a8f432c989691017",
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": true,
@@ -71,18 +108,19 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "contentFriendPage",
+    "parent": "flxContGenInfo",
     "pf": "friendPage",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainselection": false,
-    "rowTemplateId": "d48ef32d9e5d440f810e0241e46ffb3d",
-    "rowcounter": 0,
+    "rowTemplateId": "jce984869ea64e788d90e1158b401161",
+    "rowcounter": 2,
     "rowfocusskin": "sb2b3180586f41a8b43393344e7e3331",
-    "rowskin": "s84ffd5cd8d7424cac07d4b3f37aca91",
-    "rowtemplate": "segGeneralInfo",
+    "rowskin": "sa245bf61e764738bc19d92a99503c46",
+    "rowtemplate": "flxInfo",
     "screenlevelwidget": false,
     "seccounter": 0,
+    "sectionHeaderTemplateId": null,
     "sectionheaderskin": "sc6d488ac4ed413f8eaad2cfe50ebd1d",
     "selectedRows": null,
     "selectedState": false,
@@ -99,8 +137,9 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "generalInfo": "generalInfo",
-        "segGeneralInfo": "segGeneralInfo"
+        "flxInfo": "flxInfo",
+        "lblItem": "lblItem",
+        "lblValue": "lblValue"
     },
     "zindex": 1
 }

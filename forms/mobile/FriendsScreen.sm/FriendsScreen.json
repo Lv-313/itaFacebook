@@ -30,7 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "segListFriends",
+        "flxScrContListFr",
         "footerSection"
     ],
     "containerweight": 100,
