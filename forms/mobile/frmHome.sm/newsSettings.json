@@ -4,11 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "38dp"
+        "value": "45dp"
     },
     "_left_": {
         "type": "string",
-        "value": "220dp"
+        "value": "295dp"
     },
     "_margin_": [
         6,
@@ -22,26 +22,26 @@
         0,
         0
     ],
-    "_skin_": "s4e3c030f58944728a05c2f9364c82f6",
-    "_text_": "Button",
+    "_skin_": "s29fe2f6a0f44d7aae74d28a481c3660",
+    "_text_": "...",
     "_top_": {
         "type": "string",
-        "value": "423dp"
+        "value": "8dp"
     },
     "_width_": {
         "type": "string",
-        "value": "50dp"
+        "value": "45dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s035cbbfe6244920985c2ec6b1381c73",
-    "id": "CopyButton0cfb3ab6397e547",
+    "id": "newsSettings",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "db284ec0179f4d84a4d61756e6be21db",
+    "kuid": "d93d92bb84f64483b4a75c2b095e281b",
     "name": "kony.ui.Button",
     "parent": "newsList",
     "pf": "frmHome",

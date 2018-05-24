@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "273dp"
+        "value": "233dp"
     },
     "_left_": {
         "type": "string",
-        "value": "60dp"
+        "value": "85dp"
     },
     "_margin_": [
         0,
@@ -24,26 +24,32 @@
         0
     ],
     "_skin_": "s21faa52bcdc404aa2f4b921c4aadb88",
-    "_src_": "imagedrag.png",
+    "_src_": "reusablelogin_logo.png",
     "_top_": {
         "type": "string",
-        "value": "78dp"
+        "value": "63dp"
     },
     "_width_": {
         "type": "string",
-        "value": "243dp"
+        "value": "210dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
         "formID": "frmHome",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "Image0ef3e924b3a1447",
+    "id": "newsImage",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "jb6de39f84594345bd11d92e33fd6dad",

@@ -5,9 +5,15 @@ function skinsInit() {
     ButtonSqrdSkinFocus = "ButtonSqrdSkinFocus";
     ButtonSqrdSkinNormal = "ButtonSqrdSkinNormal";
     CopyButtonRoundFloatSkinNormal0f04671f65fcc4f = "CopyButtonRoundFloatSkinNormal0f04671f65fcc4f";
+    CopydefBtnNormal0a0059d486fff4c = "CopydefBtnNormal0a0059d486fff4c";
     CopydefBtnNormal0ac3b4422a66340 = "CopydefBtnNormal0ac3b4422a66340";
+    CopydefBtnNormal0ad7a956462984c = "CopydefBtnNormal0ad7a956462984c";
+    CopydefBtnNormal0b20eb6166f7746 = "CopydefBtnNormal0b20eb6166f7746";
     CopydefBtnNormal0b5138676482748 = "CopydefBtnNormal0b5138676482748";
     CopydefBtnNormal0b67ee5fcb5c649 = "CopydefBtnNormal0b67ee5fcb5c649";
+    CopydefBtnNormal0dcc55134b62547 = "CopydefBtnNormal0dcc55134b62547";
+    CopydefBtnNormal0hee5229b5d6148 = "CopydefBtnNormal0hee5229b5d6148";
+    CopydefBtnNormal0jbcbd29cd73a48 = "CopydefBtnNormal0jbcbd29cd73a48";
     CopydefLabel0b2cf74c1945b48 = "CopydefLabel0b2cf74c1945b48";
     CopydefLabel0c0f7ca3793f046 = "CopydefLabel0c0f7ca3793f046";
     CopydefLabel0cc82ecba51d24f = "CopydefLabel0cc82ecba51d24f";
@@ -17,6 +23,7 @@ function skinsInit() {
     CopydefLabel0eff1f5e482c14f = "CopydefLabel0eff1f5e482c14f";
     CopydefLabel0fd740f085a7241 = "CopydefLabel0fd740f085a7241";
     CopydefLabel0gbee1218db7649 = "CopydefLabel0gbee1218db7649";
+    CopydefRichTextNormal0a5f8603c18e04d = "CopydefRichTextNormal0a5f8603c18e04d";
     CopydefTextBoxNormal0c972bb23d6544b = "CopydefTextBoxNormal0c972bb23d6544b";
     CopydefTextBoxNormal0g8cb9c48aa764c = "CopydefTextBoxNormal0g8cb9c48aa764c";
     CopyslCamera0a317317cd4ea46 = "CopyslCamera0a317317cd4ea46";

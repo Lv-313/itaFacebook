@@ -2,13 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "5dp"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "45dp"
     },
     "_margin_": [
         6,
@@ -22,28 +22,31 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "5dp"
-    },
-    "_skin_": "sdec9d86a2db4e3fbbe9fdf2089600ca",
+    "_skin_": "s525c1c018fb40c0979641877cf9d897",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "428dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s7a79ad8926d4a6fab933e802d751939",
-    "id": "buttonFoto",
+    "focusskin": "s035cbbfe6244920985c2ec6b1381c73",
+    "id": "newsLike",
     "info": null,
+    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d4519a45ba374eaba8900f13cadcb4ee",
+    "kuid": "c12c202f197e4661b22214cacab8bd26",
     "name": "kony.ui.Button",
-    "parent": "newFotoButton",
+    "parent": "newsList",
     "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
     "wType": "Button",
     "zindex": 1
 }

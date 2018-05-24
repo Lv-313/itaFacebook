@@ -2,13 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "5dp"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "235dp"
     },
     "_margin_": [
         6,
@@ -22,28 +22,31 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "10dp"
-    },
-    "_skin_": "sdec9d86a2db4e3fbbe9fdf2089600ca",
+    "_skin_": "s3c340f51b2d409f8e857fe61749770c",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "428dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s7a79ad8926d4a6fab933e802d751939",
-    "id": "buttonHome",
+    "focusskin": "s035cbbfe6244920985c2ec6b1381c73",
+    "id": "newsCommentLink",
     "info": null,
+    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "eb22b8ded0ec4017a33e8a71d5bdf3db",
+    "kuid": "db284ec0179f4d84a4d61756e6be21db",
     "name": "kony.ui.Button",
-    "parent": "homeButton",
+    "parent": "newsList",
     "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
     "wType": "Button",
     "zindex": 1
 }

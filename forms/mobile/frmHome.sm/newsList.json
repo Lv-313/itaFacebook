@@ -26,7 +26,7 @@
     "_skin_": "se4889bee47d43c5a8063c9d254dea5b",
     "_top_": {
         "type": "string",
-        "value": "1%"
+        "value": "1.00%"
     },
     "_width_": {
         "type": "string",
@@ -36,11 +36,13 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Button0a54b263d115e49",
-        "Image0ef3e924b3a1447",
-        "Button0h1eceabb596e42",
-        "CopyButton0cfb3ab6397e547",
-        "RichText0ced973a9c7d34a"
+        "newsSettings",
+        "newsImage",
+        "newsLike",
+        "newsCommentLink",
+        "newsText",
+        "newsLikeNumber",
+        "newsCommentNumber"
     ],
     "clipbounds": true,
     "containerweight": 100,
