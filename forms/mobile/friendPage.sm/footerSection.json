@@ -9,7 +9,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "10%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -40,6 +40,7 @@
         "value": "100%"
     },
     "areflexpropsreferenced": false,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "clipbounds": true,
     "containerweight": 0,
@@ -47,7 +48,7 @@
         "BtnAddFriend": {
             "__events__": {},
             "__info__": {
-                "kuid": "f42d3ec9064a49348b3434e777581147",
+                "kuid": "f64c3436c6454ac1a8f20b5bcf523df5",
                 "srcKUID": "c60b229f64f74e7ea8b4744666a78a27",
                 "wType": "Button"
             }
@@ -55,7 +56,7 @@
         "BtnAddPost": {
             "__events__": {},
             "__info__": {
-                "kuid": "bb70394201234a93bac1d3e4fbbaea28",
+                "kuid": "b0fe27fc33714ec1851dfc28d0b842d8",
                 "srcKUID": "j1c5012b45374fcb9f2f57fd2d1b383e",
                 "wType": "Button"
             }
@@ -63,7 +64,7 @@
         "BtnHome": {
             "__events__": {},
             "__info__": {
-                "kuid": "fa18c73110c2499c816c3601c41f48d9",
+                "kuid": "d6081134dcbb445ba237717a18148438",
                 "srcKUID": "cb7345f19cac405d8738ff0e05d507b2",
                 "wType": "Button"
             }
@@ -72,14 +73,23 @@
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "i9d3cc0f58ce4aacb5818664fdaadd10",
+                "kuid": "c34d1d8c86f1407d99d4e5c85faddb09",
                 "srcKUID": "c560061ccd8f4c8aa67531f7d8f8708c",
                 "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
             },
             "bottom": {
                 "Default": {
                     "type": "string",
                     "value": "0%"
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
                 }
             },
             "left": {
@@ -101,12 +111,12 @@
     "iscustomlayout": false,
     "isdatareferenced": false,
     "isvisible": true,
-    "kuid": "i9d3cc0f58ce4aacb5818664fdaadd10",
+    "kuid": "c34d1d8c86f1407d99d4e5c85faddb09",
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "FriendsScreen",
-    "pf": "FriendsScreen",
+    "parent": "footerFlxCountFrPage",
+    "pf": "friendPage",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "snaptogrid": true,

@@ -1,19 +1,16 @@
 {
   "android": {
-    "background_image": "home.png",
-    "bg_type": "image",
     "font_name": "default"
   },
   "androidwearos": {
     "font_name": "default"
   },
-  "background_color": "4b88f100",
-  "bg_type": "one",
+  "background_image": "home.png",
+  "bg_type": "image",
   "border_color": "ffffff00",
-  "border_radius": 0,
-  "border_style": "custom",
+  "border_style": "plain",
   "border_type": 0,
-  "border_width": 56,
+  "border_width": 0,
   "desktopweb": {
     "font_name": "Helvetica"
   },

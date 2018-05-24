@@ -4,11 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "60%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "150dp"
+        "value": "75%"
     },
     "_margin_": [
         6,
@@ -24,13 +20,9 @@
     ],
     "_skin_": "s42a650659e64c4496dc0e53e9d0998a",
     "_text_": "",
-    "_top_": {
-        "type": "string",
-        "value": "3dp"
-    },
     "_width_": {
         "type": "string",
-        "value": "15%"
+        "value": "20%"
     },
     "canUpdateUI": true,
     "centerx": {
