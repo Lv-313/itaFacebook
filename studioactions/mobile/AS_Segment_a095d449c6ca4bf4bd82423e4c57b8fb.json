@@ -1,0 +1,100 @@
+{
+    "AS_Segment_a095d449c6ca4bf4bd82423e4c57b8fb": {
+        "id": "AS_Segment_a095d449c6ca4bf4bd82423e4c57b8fb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "FriendsScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1ee9cb3cd4b44e6b6bc845810d4f771"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_SYNC_SERVICE__ja678dff1fae41a7989f6347a15a0c8b",
+            "type": "INVOKE_SYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": [{
+                "name": "",
+                "value": ""
+            }, {
+                "name": "",
+                "value": ""
+            }, {
+                "name": "",
+                "value": ""
+            }, {
+                "name": "",
+                "value": ""
+            }, {
+                "name": "",
+                "value": ""
+            }],
+            "httpconfigs": null,
+            "isasynchronous": false,
+            "mappings": {
+                "ME_Mapping_d6248623e8a840c6b44a59b547596aaa": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_d6248623e8a840c6b44a59b547596aaa",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "fullName",
+                        "widgetId": "segListFr",
+                        "widgetPath": "this.view.segListFr",
+                        "widgetType": "Segment",
+                        "dataType": "string",
+                        "itemId": "FriendsScreen",
+                        "collectionId": "selectedItems",
+                        "widgetKUID": "a8692d793b7949d49cfccdb1f37e47f6",
+                        "itemKUID": "d1ee9cb3cd4b44e6b6bc845810d4f771",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "friendlist_id",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "addListOfFriends",
+                            "serviceid": "9e541419-cccf-42be-bc27-22864105f9ef",
+                            "type": "integration",
+                            "operationname": "get_friendlist_id_members",
+                            "operationid": "3721115"
+                        }
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_d6248623e8a840c6b44a59b547596aaa"],
+            "serviceconfig": {
+                "servicename": "addListOfFriends",
+                "serviceid": "9e541419-cccf-42be-bc27-22864105f9ef",
+                "type": "integration",
+                "operationname": "get_friendlist_id_members",
+                "operationid": "3721115"
+            },
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_MAPPING__a51fe58d56614c8a8a2310fcd55d6285",
+            "type": "ADD_MAPPING",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

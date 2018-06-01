@@ -37,6 +37,6 @@ define({
     },
     postAppInitCallBack: function(eventObj) {},
     appmenuseq: function() {
-        new kony.mvc.Navigation("friendPage").navigate();
+        new kony.mvc.Navigation("frmLogin").navigate();
     }
 });

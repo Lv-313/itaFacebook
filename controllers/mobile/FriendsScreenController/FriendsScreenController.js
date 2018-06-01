@@ -1,7 +1,7 @@
 define({ 
 
  fillListFriends: function() {
-  var segmentFriends = this.view.flxScrContListFr.segListFriends;
+  var segmentFriends = this.view.flxScrContListFr.segListFr;
  
   var data = [{
     friendsId: 45,
@@ -20,12 +20,17 @@ define({
   }];
  
   segmentFriends.widgetDataMap = {
-    lblFullNameFr: "numeFriend",
-    imgProfile: "imgUrl",
-    FrId: "friendsId"
+    fullName: "numeFriend",
+    imgFriend: "imgUrl",
+    IdFr: "friendsId"
   };
  
   segmentFriends.setData(data);
- }
+ },
+  
+  openFriend: function(response){
+    var navBack = new kony.mvc.Navigation("friendPage");
+    navBack.navigate();
+}
   
 });

@@ -22,7 +22,10 @@ var appConfig = {
                 "success_url": "allow_any"
             }
         },
-        "service_doc_etag": "000001638D55CEA8",
+        "integsvc": {
+            "addListOfFriends": "https://app-factory-dev.konycloud.com/services/addListOfFriends"
+        },
+        "service_doc_etag": "00000163B7ADBE18",
         "appId": "af90b791-fe56-4321-b675-86657a5f2cc7",
         "identity_features": {
             "reporting_params_header_allowed": true
@@ -44,7 +47,13 @@ var appConfig = {
             "prov": "DeliveryBinGoogle",
             "url": "https://100007931.auth.konycloud.com"
         }],
-        "services_meta": {},
+        "services_meta": {
+            "addListOfFriends": {
+                "type": "integsvc",
+                "version": "1.0",
+                "url": "https://app-factory-dev.konycloud.com/services/addListOfFriends"
+            }
+        },
         "Webapp": {
             "url": "https://app-factory-dev.konycloud.com/appMy"
         }
@@ -80,7 +89,7 @@ function themeCallBack() {
         init: applicationController.appInit,
         appservice: applicationController.AS_AppEvents_c9cbdd8252d846ef896d10cd92f4c577,
         showstartupform: function() {
-            var startForm = new kony.mvc.Navigation("friendPage");
+            var startForm = new kony.mvc.Navigation("frmLogin");
             startForm.navigate();
         }
     });

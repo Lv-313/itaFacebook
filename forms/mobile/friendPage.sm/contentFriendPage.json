@@ -37,6 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "flxContGenInfo",
+        "flxProfTool",
         "flxContGallery"
     ],
     "clipbounds": true,

@@ -43,6 +43,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flxFriendsIcon",
+    "ide_onClick": "AS_FlexContainer_b748e6b22ea44b5cb43f0aaa9c283694",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

@@ -39,6 +39,7 @@
     "detecttelnumber": true,
     "htmlstring": "",
     "id": "browser",
+    "ide_onSuccess": "AS_Browser_i91e2d03b51f4cf0a89b98df93ce8b75",
     "info": null,
     "iscustomlayout": false,
     "isvisible": false,

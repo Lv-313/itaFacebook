@@ -1,0 +1,48 @@
+{
+    "AS_Segment_c06754c28638435d8b2721f074dadd7b": {
+        "id": "AS_Segment_c06754c28638435d8b2721f074dadd7b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "FriendsScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1ee9cb3cd4b44e6b6bc845810d4f771"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__ga35e641bca4448894addaee04ca0091",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "sfvdfsdf",
+            "yesLabel": "Y",
+            "noLabel": "N",
+            "alertMessage": "gdfsgsg",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "INVOKE_FUNCTION___jc349706ac2744d4989aa780df6a672e",
+            "type": "INVOKE_FUNCTION",
+            "display": "<>",
+            "inputparams": [],
+            "parentId": "SHOW_ALERT__ga35e641bca4448894addaee04ca0091",
+            "callbackType": "True",
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

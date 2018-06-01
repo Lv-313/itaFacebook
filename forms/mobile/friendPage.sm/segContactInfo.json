@@ -1,0 +1,155 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "id": {
+                "text": ""
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of birth"
+            },
+            "lblvalue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "27 September 1999"
+            }
+        },
+        {
+            "id": {
+                "text": ""
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Gender"
+            },
+            "lblvalue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "male"
+            }
+        },
+        {
+            "id": {
+                "text": ""
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Phone number"
+            },
+            "lblvalue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+380664563322"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": false
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {},
+    "enablereordering": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "bb2f35828ce7402cbab21c22a817eca9",
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {
+        "id": "text"
+    },
+    "id": "segContactInfo",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fc074fb6a5f141df8d07bcee7ca456b3",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxContGenInfo",
+    "pf": "friendPage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "bb2f35828ce7402cbab21c22a817eca9",
+    "rowcounter": 2,
+    "rowfocusskin": "sb2b3180586f41a8b43393344e7e3331",
+    "rowskin": "s3d8ff12bee9408eb3da538490ebe28a",
+    "rowtemplate": "FBox0de2fec692e1640",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sc6d488ac4ed413f8eaad2cfe50ebd1d",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": true,
+    "separatorthickness": 2,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1125,
+        "widthRatio": 0
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "lblHeading": "lblHeading",
+        "lblvalue": "lblvalue"
+    },
+    "zindex": 1
+}

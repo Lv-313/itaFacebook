@@ -1,0 +1,29 @@
+{
+    "AS_Button_d7c882587fba4fc0ba4d3ffeafc5cf9b": {
+        "id": "AS_Button_d7c882587fba4fc0ba4d3ffeafc5cf9b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "friendPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f1d7688168aa47a5aeaae7ffa41cb875"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f29abea544ac45518b6f4b95daa0a9d9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "profileScreen",
+            "formKUID": "gccdb0dcc4bc4557aea2041e8d9b68d3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

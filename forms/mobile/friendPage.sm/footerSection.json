@@ -62,7 +62,9 @@
             }
         },
         "BtnHome": {
-            "__events__": {},
+            "__events__": {
+                "ide_onClick": "AS_Button_d7c882587fba4fc0ba4d3ffeafc5cf9b"
+            },
             "__info__": {
                 "kuid": "d6081134dcbb445ba237717a18148438",
                 "srcKUID": "cb7345f19cac405d8738ff0e05d507b2",

@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "lblHeading",
-        "segGenInfo"
+        "segContactInfo"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -47,7 +47,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "a514db6dfb5449eea72f9f6bf51f4bb6",
-    "layouttype": 4,
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "contentFriendPage",
     "pf": "friendPage",

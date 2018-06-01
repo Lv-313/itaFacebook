@@ -1,1 +1,1 @@
-{}
+{"addListOfFriends":{"get_friendlist_id_members":{"servicename":"addListOfFriends","serviceid":"9e541419-cccf-42be-bc27-22864105f9ef","type":"integration","operationname":"get_friendlist_id_members","operationid":"3721115"},"get_user_id_friendlists":{"servicename":"addListOfFriends","serviceid":"9e541419-cccf-42be-bc27-22864105f9ef","type":"integration","operationname":"get_user_id_friendlists","operationid":"3721235"}}}

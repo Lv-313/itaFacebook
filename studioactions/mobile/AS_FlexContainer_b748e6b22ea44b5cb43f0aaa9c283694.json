@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_b748e6b22ea44b5cb43f0aaa9c283694": {
+        "id": "AS_FlexContainer_b748e6b22ea44b5cb43f0aaa9c283694",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "profileScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "gccdb0dcc4bc4557aea2041e8d9b68d3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___jafb67a6d2fd4a999f2ba126853ed778",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "FriendsScreen",
+            "formKUID": "d1ee9cb3cd4b44e6b6bc845810d4f771",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

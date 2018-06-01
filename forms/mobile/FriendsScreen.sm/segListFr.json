@@ -4,53 +4,27 @@
     "__parentReadjusting__": false,
     "_data_": [
         {
-            "id": {
-                "text": ""
+            "Id": {
+                "text": "IdFr"
             },
-            "lblItem": {
+            "fullName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Date of birth"
+                "text": "Label"
             },
-            "lblValue": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "24 july 1969"
-            }
-        },
-        {
-            "id": {
-                "text": ""
-            },
-            "lblItem": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Gender"
-            },
-            "lblValue": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "male"
-            }
-        },
-        {
-            "id": {
-                "text": ""
-            },
-            "lblItem": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Phone"
-            },
-            "lblValue": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "+43 1 31339 0"
+            "imgFriend": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
             }
         }
     ],
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "30%"
     },
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "0.00%"
     },
     "_margin_": [
         0,
@@ -67,7 +41,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "1%"
+        "value": "0.00%"
     },
     "_width_": {
         "type": "string",
@@ -76,16 +50,17 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "02",
+    "counter": "00",
     "focusedindex": null,
     "focuseditem": null,
-    "generatedtemplate": "f4b4c1c504c04ec38b75988eec2b377c",
+    "generatedtemplate": "f0f5f376e1474ea6aa98ab7a9578bc5e",
     "groupcells": false,
     "hasSections": false,
     "hiddencolumns": {
-        "id": "text"
+        "Id": "text"
     },
-    "id": "segGenInfo",
+    "id": "segListFr",
+    "ide_onRowClick": "AS_Segment_a095d449c6ca4bf4bd82423e4c57b8fb",
     "info": null,
     "ipad": {
         "psp": {
@@ -99,7 +74,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i5b2f86a900d42f4a8f432c989691017",
+    "kuid": "a8692d793b7949d49cfccdb1f37e47f6",
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": true,
@@ -108,19 +83,18 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "flxContGenInfo",
-    "pf": "friendPage",
+    "parent": "flxScrContListFr",
+    "pf": "FriendsScreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainselection": false,
-    "rowTemplateId": "jce984869ea64e788d90e1158b401161",
-    "rowcounter": 2,
+    "rowTemplateId": "f0f5f376e1474ea6aa98ab7a9578bc5e",
+    "rowcounter": 0,
     "rowfocusskin": "sb2b3180586f41a8b43393344e7e3331",
-    "rowskin": "sa245bf61e764738bc19d92a99503c46",
-    "rowtemplate": "flxInfo",
+    "rowskin": "s84ffd5cd8d7424cac07d4b3f37aca91",
+    "rowtemplate": "FBox0i67255ddaf4348",
     "screenlevelwidget": false,
     "seccounter": 0,
-    "sectionHeaderTemplateId": null,
     "sectionheaderskin": "sc6d488ac4ed413f8eaad2cfe50ebd1d",
     "selectedRows": null,
     "selectedState": false,
@@ -137,9 +111,10 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "flxInfo": "flxInfo",
-        "lblItem": "lblItem",
-        "lblValue": "lblValue"
+        "FlexContainer0fb11c4ecae2642": "FlexContainer0fb11c4ecae2642",
+        "fullName": "fullName",
+        "imgFriend": "imgFriend",
+        "openFriend": "openFriend"
     },
     "zindex": 1
 }

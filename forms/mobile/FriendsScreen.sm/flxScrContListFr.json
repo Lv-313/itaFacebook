@@ -38,7 +38,7 @@
     "bounces": true,
     "canUpdateUI": true,
     "children": [
-        "segListFriends"
+        "segListFr"
     ],
     "clipbounds": true,
     "containerweight": 100,
